@@ -25,8 +25,8 @@ development:
   <<: *default
   database: Project_wed_development
   pool: 5
-  username: Project_wed
-  password: rose13ff7
+  username: admin
+  password:
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -62,8 +62,8 @@ test:
   <<: *default
   database: Project_wed_test
   pool: 5
-  username: Project_wed
-  password: rose13ff7
+  username: admin
+  password:
 
 # As with config/secrets.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is

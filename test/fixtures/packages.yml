@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  salle: MyText
+  start_wedding: 2018-04-26
+  end_wedding: 2018-04-26
+  wedding_color: MyText
+  price: 1
+  max_people: 1
+  deposit: 1
+
+two:
+  salle: MyText
+  start_wedding: 2018-04-26
+  end_wedding: 2018-04-26
+  wedding_color: MyText
+  price: 1
+  max_people: 1
+  deposit: 1
